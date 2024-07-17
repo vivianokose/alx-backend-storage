@@ -1,0 +1,1 @@
+# Welcome to the Redis Basics project! This repository is designed to help you understand the fundamentals of Redis, a powerful in-memory data structure store used as a database, cache, and message broker.
